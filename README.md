@@ -1,13 +1,13 @@
-# Simple Chatbot
-A really simple chatbot created in python using the Natural Language Toolkit as a building block for a work-in-progress NLP AI
+# Python Chatbot
+A really simple chatbot created in Python using the Natural Language Toolkit as a building block for a work-in-progress NLP AI
 
 ## Installation
-Python necessary on device along with nltk library
+Python is necessary on the device along with NLTK library
 
 pip install nltk
 
 ## Usage
-Simply double click the chatbot.py file or enter the following in Windows Terminal:
+Simply double-click the chatbot.py file or enter the following in Windows Terminal:
 
 "path/to/directory" python chatbot.py
 
